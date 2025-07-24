@@ -1,5 +1,6 @@
 # Project-LearningLog
-A simple website where user can log in and keep there learning track. The backend is by python django.
+A simple website where user can log in and keep there learning track. The backend is by python django. 
+You will find the files in the sub branch of this repository.
 
 
 ![image alt](https://github.com/Jerry1921/Project-LearningLog/blob/5c2a0ac41230743645387dbfb25b349a7498a844/1.png)
